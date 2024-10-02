@@ -12,12 +12,12 @@ The Tableau dashboard provides visual insights into the sales data, allowing sta
 ![Sales Dashboard 2](https://github.com/user-attachments/assets/eb151d96-6bc1-4746-ac0e-7b30af31b2a7)
 
 # Key Insights from the Analysis
-Top Revenue-Generating Product- Classic cars generated the most revenue for the company.
-Best Performing Year- The year 2004 was the company's most successful year in terms of revenue generation.
-Most Profitable Deal Size- Medium-sized deals contributed the highest revenue.
-Monthly Sales Trends- November consistently was the best month for sales, possibly due to shopping discounts in this period.
-Geographical Sales- The United States was the company’s largest market with the highest number of sales.
-RFM Analysis- Showed that customers with low RFM scores were highly valuable and should be targeted for retention.
+- Top Revenue-Generating Product- Classic cars generated the most revenue for the company.
+- Best Performing Year- The year 2004 was the company's most successful year in terms of revenue generation.
+- Most Profitable Deal Size- Medium-sized deals contributed the highest revenue.
+- Monthly Sales Trends- November consistently was the best month for sales, possibly due to shopping discounts in this period.
+- Geographical Sales- The United States was the company’s largest market with the highest number of sales.
+- RFM Analysis- Showed that customers with low RFM scores were highly valuable and should be targeted for retention.
 
 # Recommendations for Improving Vehicle Sales
 Based on the insights gathered from the data, the following strategies are recommended to improve vehicle sales:
