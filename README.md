@@ -8,6 +8,7 @@ This project is my 4th project, aimed at demonstrating my skills in SQL and data
 Various SQL operations were performed, such as data aggregation, grouping, and ranking to analyse the data.
 Key insights include the highest revenue-generating products, the best-performing years and months, and reviewing customer behaviour using RFM analysis.
 The Tableau dashboard provides visual insights into the sales data, allowing stakeholders to easily interpret key trends (interactive features can be seen at https://public.tableau.com/app/profile/riajul.hussain).
+
 ![Sales Dashboard 1](https://github.com/user-attachments/assets/a0d92d5c-c12e-47f4-b126-c3b296e07a61)
 ![Sales Dashboard 2](https://github.com/user-attachments/assets/eb151d96-6bc1-4746-ac0e-7b30af31b2a7)
 
