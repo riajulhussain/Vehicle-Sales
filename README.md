@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is my 4th project, aimed at demonstrating my skills in SQL and data visualization using Tableau. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behavior using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
+This project is my 4th project and I chose to focus on vehicle sales for this project because it offers a rich dataset that reveals significant insights into product performance and customer behavior. By analysing sales data, I aimed to showcase my skills in SQL and Tableau while demonstrating the practical applications of data analysis in driving business decisions. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behavior using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
 
 # Project Highlights
 Various SQL operations were performed, such as data aggregation, grouping, and ranking to analyse the data.
