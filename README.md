@@ -2,7 +2,7 @@
 
 # Project Overview
 
-This project is my 4th project and I chose to focus on vehicle sales for this project because it offers a rich dataset that reveals significant insights into product performance and customer behavior. By analysing sales data, I aimed to showcase my skills in SQL and Tableau while demonstrating the practical applications of data analysis in driving business decisions. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behavior using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
+This project is my 4th project and I chose to focus on vehicle sales for this project because it offers a rich dataset that reveals significant insights into product performance and customer behaviour. By analysing sales data, I aimed to showcase my skills in SQL and Tableau while demonstrating the practical applications of data analysis in driving business decisions. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behaviour using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
 
 # Project Highlights
 Various SQL operations were performed, such as data aggregation, grouping, and ranking to analyse the data.
@@ -23,10 +23,10 @@ The Tableau dashboard provides visual insights into the sales data, allowing sta
 # Recommendations for Improving Vehicle Sales
 Based on the insights gathered from the data, the following strategies are recommended to improve vehicle sales:
 - Focus on classic cars as this product generates the highest revenue, increasing marketing efforts for this product line can drive further growth. The company can also consider expanding the classic car inventory or introducing related accessories to boost sales.
-- Medium-sized deals offer the highest revenue, so prioritizing customers in this range through targeted promotions and special offers can maximize returns.
+- Medium-sized deals offer the highest revenue, so prioritising customers in this range through targeted promotions and special offers can maximise returns.
 - Since November is consistently the best-performing month, launching special sales campaigns or discounts in the lead-up to this period could further increase revenue.
 - While the United States is the largest market, exploring emerging markets with a targeted product mix could diversify revenue streams and reduce dependency on a single market.
-- Based on the RFM analysis, customers with low RFM scores (high value) should be engaged with loyalty programs or personalized discounts to increase their lifetime value.
+- Based on the RFM analysis, customers with low RFM scores (high value) should be engaged with loyalty programs or personalised discounts to increase their lifetime value.
 
 # Future Improvements
 - Use data visualisation to present how customer behaviour is monitored.
