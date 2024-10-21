@@ -2,15 +2,14 @@
 
 # Project Overview
 
-This project is my 4th project and I chose to focus on vehicle sales for this project because it offers a rich dataset that reveals significant insights into product performance and customer behaviour. By analysing sales data, I aimed to showcase my skills in SQL and Tableau while demonstrating the practical applications of data analysis in driving business decisions. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behaviour using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
+This project is my 4th project and I chose to focus on vehicle sales for this project because it offers a rich dataset that reveals significant insights into product performance and customer behaviour. By analysing sales data, I aimed to showcase my skills in SQL and Power BI while demonstrating the practical applications of data analysis in driving business decisions. The dataset used in this project was sourced from Kaggle, and the analysis focuses on sales data to uncover valuable insights into product performance, seasonal trends, and customer behaviour using RFM (Recency, Frequency, and Monetary value). This project is designed for prospective employers to review my technical capabilities in data analysis and visualisation.
 
 # Project Highlights
 Various SQL operations were performed, such as data aggregation, grouping, and ranking to analyse the data.
 Key insights include the highest revenue-generating products, the best-performing years and months, and reviewing customer behaviour using RFM analysis.
-The Tableau dashboard provides visual insights into the sales data, allowing stakeholders to easily interpret key trends (interactive features can be seen at https://public.tableau.com/app/profile/riajul.hussain).
+Power BI dashboard provides visual insights into the sales data, allowing stakeholders to easily interpret key trends:
 
-![Sales Dashboard 1](https://github.com/user-attachments/assets/a0d92d5c-c12e-47f4-b126-c3b296e07a61)
-![Sales Dashboard 2](https://github.com/user-attachments/assets/eb151d96-6bc1-4746-ac0e-7b30af31b2a7)
+![Screenshot 2024-10-21 033834](https://github.com/user-attachments/assets/945c6dd5-26be-43ce-86a9-a22e342a9b51)
 
 # Key Insights from the Analysis
 - Top Revenue-Generating Product- Classic cars generated the most revenue for the company.
